@@ -5798,13 +5798,13 @@
     <buy>8000</buy>
   </type>
   <type name="Chestplate">
-    <category name="storage" />
+    <category name="clothing" />
     <value name="Tier3" />
     <sell>400</sell>
     <buy>5000</buy>
   </type>
   <type name="ChestHolster">
-    <category name="storage" />
+    <category name="clothing" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>

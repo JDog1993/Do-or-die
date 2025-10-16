@@ -168,31 +168,31 @@
     <buy>2500</buy>
   </type>
   <type name="Ammo_40mm_Explosive">
-    <category name="ammo" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="Ammo_40mm_Smoke_Black">
-    <category name="ammo" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="Ammo_40mm_Smoke_Green">
-    <category name="ammo" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="Ammo_40mm_Smoke_Red">
-    <category name="ammo" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="Ammo_40mm_Smoke_White">
-    <category name="ammo" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
@@ -306,7 +306,7 @@
     <buy>2500</buy>
   </type>
   <type name="Ammo_40mm_Chemgas">
-    <category name="ammo" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
@@ -2994,52 +2994,34 @@
     <buy>3500</buy>
   </type>
   <type name="CanvasBag_Medical">
-    <category name="food" />
+    <category name="bag" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="CanvasBag_Olive">
-    <category name="food" />
+    <category name="bag" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="WaterproofBag_Green">
-    <category name="food" />
+    <category name="bag" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="WaterproofBag_Orange">
-    <category name="food" />
+    <category name="bag" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="WaterproofBag_Yellow">
-    <category name="food" />
+    <category name="bag" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
-  </type>
-  <type name="PumpkinSeedsPack">
-    <category name="food" />
-    <value name="Tier1" />
-    <sell>100</sell>
-    <buy>2500</buy>
-  </type>
-  <type name="ZucchiniSeedsPack">
-    <category name="food" />
-    <value name="Tier1" />
-    <sell>100</sell>
-    <buy>2500</buy>
-  </type>
-  <type name="CannabisSeedsPack">
-    <category name="food" />
-    <value name="Tier1" />
-    <sell>100</sell>
-    <buy>2500</buy>
   </type>
   <type name="TacticalBaconCan">
     <category name="food" />
@@ -3048,7 +3030,7 @@
     <buy>2500</buy>
   </type>
   <type name="PumpkinHelmet">
-    <category name="food" />
+    <category name="misc" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
@@ -3264,36 +3246,37 @@
     <buy>2500</buy>
   </type>
   <type name="CanOpener">
-    <category name="food" />
+    <category name="misc" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="LargeGasCanister">
-    <category name="food" />
+    <category name="misc" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="MediumGasCanister">
-    <category name="food" />
+    <category name="misc" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="SmallGasCanister">
-    <category name="food" />
+    <category name="misc" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="CanisterGasoline">
-    <category name="food" />
+    <category name="misc" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
-  <!--===== CATEGORY: FOOD_SEEDS =====--><type name="PepperSeedsPack">
+  <!--===== CATEGORY: FOOD_SEEDS =====-->
+ <type name="PepperSeedsPack">
     <category name="food_seeds" />
     <value name="Tier1" />
     <sell>100</sell>
@@ -3306,6 +3289,24 @@
     <buy>2500</buy>
   </type>
   <type name="PotatoSeed">
+    <category name="food_seeds" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+   <type name="PumpkinSeedsPack">
+    <category name="food_seeds" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZucchiniSeedsPack">
+    <category name="food_seeds" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CannabisSeedsPack">
     <category name="food_seeds" />
     <value name="Tier1" />
     <sell>100</sell>
@@ -5286,7 +5287,7 @@
     <buy>8000</buy>
   </type>
   <type name="ClaymoreMine">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier3" />
     <sell>400</sell>
     <buy>5000</buy>
@@ -5298,79 +5299,79 @@
     <buy>8000</buy>
   </type>
   <type name="Grenade_ChemGas">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier3" />
     <sell>400</sell>
     <buy>5000</buy>
   </type>
   <type name="M18SmokeGrenade_Green">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="M18SmokeGrenade_Purple">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="M18SmokeGrenade_Red">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="M18SmokeGrenade_White">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="M18SmokeGrenade_Yellow">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="M67Grenade">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier3" />
     <sell>400</sell>
     <buy>5000</buy>
   </type>
   <type name="Plastic_Explosive">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier4" />
     <sell>800</sell>
     <buy>8000</buy>
   </type>
   <type name="RDG2SmokeGrenade_Black">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="RDG2SmokeGrenade_White">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier1" />
     <sell>100</sell>
     <buy>2500</buy>
   </type>
   <type name="RGD5Grenade">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier3" />
     <sell>400</sell>
     <buy>5000</buy>
   </type>
   <type name="RemoteDetonator">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
   </type>
   <type name="ChernarusMap">
-    <category name="misc" />
+    <category name="exploseves" />
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
@@ -5765,24 +5766,7 @@
     <sell>400</sell>
     <buy>5000</buy>
   </type>
-<!--===== CATEGORY: STORAGE =====--><type name="Winchester70">
-    <category name="storage" />
-    <value name="Tier3" />
-    <sell>400</sell>
-    <buy>5000</buy>
-  </type>
-  <type name="Winchester70_Black">
-    <category name="storage" />
-    <value name="Tier4" />
-    <sell>800</sell>
-    <buy>8000</buy>
-  </type>
-  <type name="Winchester70_Green">
-    <category name="storage" />
-    <value name="Tier4" />
-    <sell>800</sell>
-    <buy>8000</buy>
-  </type>
+<!--===== CATEGORY: STORAGE =====-->
   <type name="CarTent">
     <category name="storage" />
     <value name="Tier4" />
@@ -6209,7 +6193,26 @@
     <sell>200</sell>
     <buy>3500</buy>
   </type>
-  <!--===== CATEGORY: WEAPONS =====--><type name="CZ527">
+  <!--===== CATEGORY: WEAPONS =====-->
+  <type name="Winchester70">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Winchester70_Black">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Winchester70_Green">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="CZ527">
     <category name="weapons" />
     <value name="Tier3" />
     <sell>400</sell>

@@ -1,0 +1,6531 @@
+<?xml version='1.0' encoding='utf-8'?>
+<types>
+  <type name="AmmoBox_00buck_10rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_12gaRubberSlug_10Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_12gaSlug_10Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_22_50Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_308WinTracer_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_308Win_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_357_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_380_35rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_45ACP_25rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_545x39Tracer_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_545x39_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_556x45Tracer_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_556x45_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_762x39Tracer_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_762x39_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_762x54Tracer_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_762x54_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_9x19_25rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_9x39AP_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox_9x39_20Rnd">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_12gaPellets">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_12gaRubberSlug">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_12gaSlug">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_22">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_308Win">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_308WinTracer">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_357">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_380">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_40mm_Explosive">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_40mm_Smoke_Black">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_40mm_Smoke_Green">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_40mm_Smoke_Red">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_40mm_Smoke_White">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_45ACP">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_545x39">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_545x39Tracer">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_556x45">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_556x45Tracer">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_762x39">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_762x39Tracer">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_762x54">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_762x54Tracer">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_9x19">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_9x39">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_9x39AP">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_CupidsBolt">
+    <category name="ammo" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Ammo_Flare">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_FlareBlue">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_FlareGreen">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_FlareRed">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_HuntingBolt">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shemag_Brown">
+    <category name="magazines" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shemag_Green">
+    <category name="magazines" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shemag_Red">
+    <category name="magazines" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shemag_White">
+    <category name="magazines" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ammo_40mm_Chemgas">
+    <category name="ammo" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AmmoBox">
+    <category name="ammo" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK74_WoodBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AKS74U_Bttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_FoldingBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_FoldingBttstck_Green">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_PlasticBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_PlasticBttstck_Green">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_WoodBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_WoodBttstck_Camo">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Fal_FoldingBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Fal_OeBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_CQBBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_MPBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_OEBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MP5k_StockBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PP19_Bttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Saiga_Bttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AssaultBag_Ttsko">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TTSKOPants">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TTsKOJacket_Camo">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TTSKOBoots">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CZ527">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="CZ527_Black">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="CZ527_Camo">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="CZ550">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="CZ61">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CZ75">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Colt1911">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Engraved1911">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Glock19">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MakarovIJ70">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PM73Rak">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="FilteringBottle">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GlassBottle">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SpaghettiCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WaterBottle">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="GhillieAtt_Mossy">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="BoonieHat_DPM">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Mag_1911_7Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_CZ527_5rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_CZ550_10Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_CZ61_20Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_CZ75_15Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Glock_15Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_PM73_15Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_PM73_25Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Bandana_Blackpattern">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Bandana_Camopattern">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Bandana_Greenpattern">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Bandana_Polkapattern">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Bandana_Redpattern">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="VitaminBottle">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M9A1_Bayonet">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PistolOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Battery9V">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CarBattery">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DuctTape">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="EpoxyPutty">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Netting">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TruckBattery">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PistolSuppressor">
+    <category name="weapon_accessories" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BatteryCharger">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MeatTenderizer">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK74_Hndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_PlasticHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_RailHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_RailHndgrd_Green">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_WoodHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_WoodHndgrd_Camo">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_MPHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_PlasticHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_RISHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MP5_Compensator">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MP5_PlasticHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MP5_RailHndgrd">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mosin_Bayonet">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mosin_Compensator">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK101">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AK101_Black">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AK101_Green">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="AK74">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AK74_Black">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AK74_Green">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="AKM">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AKS74U">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AKS74U_Black">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AKS74U_Green">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="ASVAL">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Aug">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AugShort">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="B95">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Crossbow_Autumn">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Crossbow_Black">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Crossbow_Summer">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Crossbow_Wood">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Deagle">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Deagle_Gold">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Derringer_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Derringer_Grey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Derringer_Pink">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FAL">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="FAMAS">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="FNX45">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flaregun">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Izh18">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Izh18Shotgun">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Izh43Shotgun">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Longhorn">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M14">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="M16A2">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="M4A1">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="M4A1_Black">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="M4A1_Green">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="M79">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="MKII">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MP5K">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Magnum">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mosin9130">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Mosin9130_Black">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Mosin9130_Camo">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Mosin9130_Green">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Mp133Shotgun">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="P1">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PP19">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="R12">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Repeater">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Ruger1022">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SKS">
+    <category name="weapons" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="SSG82">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="SV98">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SVD">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="SVD_Wooden">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Saiga">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Scout">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Scout_Chernarus">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="UMP45">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="VSS">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Vikhr">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Winchester70">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Winchester70_Black">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Winchester70_Green">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="TLRLight">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="UniversalLight">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_AK101_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_AK74_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_AK74_45Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_AKM_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_AKM_Drum75Rnd">
+    <category name="magazines" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Mag_AKM_Palm30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Aug_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_CMAG_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_CMAG_40Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Deagle_9rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_FAL_20Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_FAMAS_25Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_FNX45_15Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_IJ70_8Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_M14_10Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_M14_20Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_MKII_10Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_MP5_15Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_MP5_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_P1_8Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_PP19_64Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Ruger1022_15Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Ruger1022_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_SSG82_5rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_STANAG_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_STANAG_60Rnd">
+    <category name="magazines" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Mag_SV98_10Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_SVD_10Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Saiga_8Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Saiga_Drum20Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Scout_5Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_UMP_25Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_VAL_20Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_VSS_10Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Mag_Vikhr_30Rnd">
+    <category name="magazines" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_Bayonet">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SKS_Bayonet">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ACOGOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ACOGOptic_6x">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BUISOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FNP45_MRDSOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="KashtanOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="KazuarOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="KobraOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_CarryHandleOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M4_T3NRDSOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M68Optic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PSO11Optic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PSO1Optic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PUScopeOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ReflexOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="StarlightOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PSO6Optic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MK4Optic_Black">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MK4Optic_Green">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MK4Optic_Tan">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SportingOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AK_Suppressor">
+    <category name="weapon_accessories" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="M4_Suppressor">
+    <category name="weapon_accessories" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="NVGoggles">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Iceaxe">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TelescopicBaton">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="AliceBag_Black">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AliceBag_Camo">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="AliceBag_Green">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="ArmyPouch_Beige">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ArmyPouch_Black">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ArmyPouch_Camo">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ArmyPouch_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AssaultBag_Black">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AssaultBag_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AssaultBag_Winter">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CanvasBag_Medical">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CanvasBag_Olive">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ChildBag_Blue">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ChildBag_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ChildBag_Red">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CoyoteBag_Brown">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CoyoteBag_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CoyoteBag_Winter">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DryBag_Black">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DryBag_Blue">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DryBag_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DryBag_Orange">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DryBag_Red">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DryBag_Yellow">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DuffelBagSmall_Camo">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DuffelBagSmall_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DuffelBagSmall_Medical">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HipPack_Black">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HipPack_Green">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HipPack_Medical">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HipPack_Party">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingBag">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingBag_Hannah">
+    <category name="bag" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="MountainBag_Blue">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MountainBag_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MountainBag_Orange">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MountainBag_Red">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Slingbag_Black">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Slingbag_Brown">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Slingbag_Gray">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SmershBag">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TaloonBag_Blue">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TaloonBag_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TaloonBag_Orange">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TaloonBag_Violet">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TortillaBag">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TortillaBag_Winter">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WaterproofBag_Green">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WaterproofBag_Orange">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WaterproofBag_Yellow">
+    <category name="bag" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BloodBagEmpty">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FirstAidKit">
+    <category name="medical" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SalineBag">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SmallProtectorCase">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PepperSeedsPack">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PumpkinSeedsPack">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TomatoSeedsPack">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZucchiniSeedsPack">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CannabisSeedsPack">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Bear_Beige">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Bear_Dark">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Bear_Pink">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Bear_White">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CarTent">
+    <category name="storage" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="LargeTent">
+    <category name="storage" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="MediumTent">
+    <category name="storage" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="MediumTent_Green">
+    <category name="storage" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="MediumTent_Orange">
+    <category name="storage" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Heatpack">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SmershVest">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MilitaryBelt">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaEJacket_Autumn">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaEJacket_Flat">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaEJacket_PautRev">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaEJacket_Summer">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaEJacket_Winter">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaPants_Autumn">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaPants_Flat">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaPants_PautRev">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaPants_Summer">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaPants_Winter">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M65Jacket_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M65Jacket_Khaki">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M65Jacket_Olive">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="M65Jacket_Tan">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TacticalShirt_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TacticalShirt_Grey">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TacticalShirt_Olive">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TacticalShirt_Tan">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="USMCJacket_Desert">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="USMCJacket_Woodland">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="USMCPants_Desert">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="USMCPants_Woodland">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CombatBoots_Beige">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CombatBoots_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CombatBoots_Brown">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CombatBoots_Green">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CombatBoots_Grey">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MilitaryBoots_Beige">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MilitaryBoots_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MilitaryBoots_Bluerock">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MilitaryBoots_Brown">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MilitaryBoots_Redpunk">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_LivoniaArmy">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TacticalBaconCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TacticalGloves_Beige">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TacticalGloves_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TacticalGloves_Green">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MilitaryBeret_CDF">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MilitaryBeret_ChDKZ">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MilitaryBeret_NZ">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MilitaryBeret_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MilitaryBeret_UN">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_BDU">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_Desert">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_Navy">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_UN">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_Winter">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BallisticHelmet_Woodland">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ConstructionHelmet_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ConstructionHelmet_Lime">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ConstructionHelmet_Orange">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ConstructionHelmet_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ConstructionHelmet_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ConstructionHelmet_Yellow">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_Lime">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_Yellow">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DarkMotoHelmet_YellowScarred">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Chernarus">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Khaki">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Mouthguard">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Police">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DirtBikeHelmet_Visor">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FirefightersHelmet_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FirefightersHelmet_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FirefightersHelmet_Yellow">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="GorkaHelmet">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaHelmet_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GorkaHelmetVisor">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HockeyHelmet_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HockeyHelmet_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HockeyHelmet_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HockeyHelmet_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Mich2001Helmet">
+    <category name="clothing" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="MotoHelmet_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MotoHelmet_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MotoHelmet_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MotoHelmet_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MotoHelmet_Lime">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MotoHelmet_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MotoHelmet_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MotoHelmet_Yellow">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PumpkinHelmet">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SkateHelmet_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SkateHelmet_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SkateHelmet_Gray">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SkateHelmet_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SkateHelmet_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ssh68Helmet">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TankerHelmet">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TacticalGoggles">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CombatKnife">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MetalPlate">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Chestplate">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="HighCapacityVest_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HighCapacityVest_Olive">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HuntingVest">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingVest_Winter">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PlateCarrierHolster">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierHolster_Black">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierHolster_Camo">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierHolster_Green">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierHolster_Winter">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierPouches">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierPouches_Black">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierPouches_Camo">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierPouches_Green">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierPouches_Winter">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierVest">
+    <category name="clothing" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierVest_Black">
+    <category name="clothing" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierVest_Camo">
+    <category name="clothing" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierVest_Green">
+    <category name="clothing" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PlateCarrierVest_Winter">
+    <category name="clothing" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="PoliceVest">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PressVest_Blue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PressVest_LightBlue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="UKAssVest_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="UKAssVest_Camo">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="UKAssVest_Khaki">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="UKAssVest_Olive">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="UKAssVest_Winter">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CivilianBelt">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BDUJacket">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BDUPants">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Blouse_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Blouse_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Blouse_Violet">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Blouse_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BomberJacket_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BomberJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BomberJacket_Brown">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BomberJacket_Grey">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BomberJacket_Maroon">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BomberJacket_Olive">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BomberJacket_SkyBlue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Breeches_Beetcheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Blackcheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Browncheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Pink">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Breeches_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BushlatPoliceJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CanvasPantsMidi_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPantsMidi_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPantsMidi_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPantsMidi_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPantsMidi_Violet">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPants_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPants_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPants_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPants_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CanvasPants_Violet">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CargoPants_Beige">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CargoPants_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CargoPants_Blue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CargoPants_Green">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CargoPants_Grey">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Chainmail">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Chainmail_Coif">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Chainmail_Leggings">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ChernarusSportShirt">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DenimJacket">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DownJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DownJacket_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DownJacket_Orange">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DownJacket_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FirefighterJacket_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FirefighterJacket_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FirefightersPants_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FirefightersPants_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="GreatHelm">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingJacket_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingJacket_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingJacket_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Hoodie_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Hoodie_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Hoodie_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Hoodie_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Hoodie_Grey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Hoodie_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HunterPants_Autumn">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HunterPants_Brown">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HunterPants_Spring">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HunterPants_Summer">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HunterPants_Winter">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingJacket_Autumn">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingJacket_Brown">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingJacket_Spring">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingJacket_Summer">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingJacket_Winter">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Jeans_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Jeans_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Jeans_BlueDark">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Jeans_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Jeans_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Jeans_Grey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitJacket_Gray">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitJacket_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitJacket_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitPants_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitPants_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitPants_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JumpsuitPants_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="LabCoat">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_DarkGrey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_Khaki">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_LightGrey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ManSuit_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsPants_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsPants_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsPants_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsShirt_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsShirt_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsShirt_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_BlueChecker">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_BlueWithDots">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_BrownChecker">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_GreenChecker">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_Pink">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_PinkChecker">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_RedChecker">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MiniDress_WhiteChecker">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="NavyUniformJacket">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NavyUniformPants">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NurseDress_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="NurseDress_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="OMKJacket_Navy">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="OMKPants_Navy">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ParamedicJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ParamedicJacket_Crimson">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ParamedicJacket_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ParamedicPants_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ParamedicPants_Crimson">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ParamedicPants_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PoliceJacket">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PoliceJacketOrel">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PolicePants">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PolicePantsOrel">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PrisonUniformJacket">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PrisonUniformPants">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Orange">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Violet">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="QuiltedJacket_Yellow">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Raincoat_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Raincoat_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Raincoat_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Raincoat_Orange">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Raincoat_Pink">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Raincoat_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Raincoat_Yellow">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RidersJacket_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shirt_BlueCheck">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shirt_BlueCheckBright">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shirt_GreenCheck">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shirt_PlaneBlack">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shirt_RedCheck">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Shirt_WhiteCheck">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ShortJeans_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ShortJeans_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ShortJeans_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ShortJeans_Darkblue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ShortJeans_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ShortJeans_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Skirt_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Skirt_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Skirt_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Skirt_Yellow">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_Brown">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_DarkGrey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_Khaki">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_LightGrey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SlacksPants_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SnowstormUshanka_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SnowstormUshanka_Navy">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SnowstormUshanka_Olive">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SnowstormUshanka_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sweater_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sweater_Gray">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sweater_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sweater_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_OrangeWhiteStripes">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_RedBlackStripes">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TShirt_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TelnyashkaShirt">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitJacket_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitJacket_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitJacket_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitJacket_LightBlue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitJacket_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitPants_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitPants_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitPants_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitPants_LightBlue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TrackSuitPants_Red">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Tshirt_10thAnniversary">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ushanka_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ushanka_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Ushanka_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WinterCoif_Black">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WinterCoif_Blue">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WinterCoif_Green">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WinterCoif_Skull">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WomanSuit_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WomanSuit_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WomanSuit_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WomanSuit_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WomanSuit_DarkGrey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WomanSuit_Khaki">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WomanSuit_LightGrey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WomanSuit_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_BlackCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_BlueCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_BrownCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_GreyCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolCoat_RedCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AthleticShoes_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AthleticShoes_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AthleticShoes_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AthleticShoes_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AthleticShoes_Grey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DressShoes_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DressShoes_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DressShoes_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DressShoes_Sunburst">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DressShoes_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingBootsLow_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingBootsLow_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingBootsLow_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingBootsLow_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingBoots_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HikingBoots_Brown">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JoggingShoes_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JoggingShoes_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JoggingShoes_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JoggingShoes_Violet">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JoggingShoes_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JungleBoots_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JungleBoots_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JungleBoots_Brown">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JungleBoots_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="JungleBoots_Olive">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedievalBoots">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sneakers_Black">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sneakers_Gray">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sneakers_Green">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sneakers_Red">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sneakers_White">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Wellies_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Wellies_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Wellies_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Wellies_Grey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingBoots_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingBoots_Brown">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingBoots_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingBoots_Grey">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingBoots_Yellow">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="NBCBootsGray">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCBootsYellow">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCGlovesGray">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCGlovesYellow">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCHoodGray">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCHoodWhite">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCHoodYellow">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCJacketGray">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCJacketYellow">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCPantsGray">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NBCPantsYellow">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AirborneMask">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="GP5GasMask">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GasMask">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="GasMask_Filter">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="GhillieBushrag_Mossy">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="GhillieHood_Mossy">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="GhillieHood_Tan">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="GhillieHood_Winter">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="GhillieHood_Woodland">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="GhillieSuit_Mossy">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="GhillieTop_Mossy">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="OMNOGloves_Brown">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="OMNOGloves_Gray">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PaddedGloves_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PaddedGloves_Brown">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PaddedGloves_Threat">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SkiGloves_90s">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SkiGloves_Blue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SkiGloves_Red">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SurgicalGloves_Blue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SurgicalGloves_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SurgicalGloves_LightBlue">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SurgicalGloves_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGlovesFingerless_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGlovesFingerless_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGlovesFingerless_Tan">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGlovesFingerless_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGloves_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGloves_Green">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGloves_Tan">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WoolGloves_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingGloves_Beige">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingGloves_Black">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingGloves_Brown">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WorkingGloves_Yellow">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_CMMG_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_CMMG_Pink">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_Camo">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_Olive">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_Pink">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BaseballCap_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Grey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Pink">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BeanieHat_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Dubok">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Flecktran">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_NavyBlue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Olive">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Orange">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Tan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoonieHat_Winter">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CowboyHat_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CowboyHat_black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CowboyHat_darkBrown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CowboyHat_green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_BlackCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_BrownCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_Grey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_GreyCheck">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="FlatCap_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsHat_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsHat_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MedicalScrubsHat_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MorozkoHat">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="OKZKCap_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="OKZKCap_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="OfficerHat">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PetushokHat_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PetushokHat_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PetushokHat_Yellow">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PilotkaCap">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PoliceCap">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PrisonerCap">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RadarCap_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RadarCap_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RadarCap_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RadarCap_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RadarCap_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SherpaHat_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SherpaHat_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SherpaHat_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="WitchHat">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="WitchHoodCoif_Black">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="WitchHoodCoif_Brown">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="WitchHoodCoif_Red">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="WitchHood_Black">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WitchHood_Brown">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WitchHood_Red">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ZmijovkaCap_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZmijovkaCap_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZmijovkaCap_Brown">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZmijovkaCap_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZmijovkaCap_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="NorseHelm">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="AviatorGlasses">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Balaclava3Holes_Beige">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Balaclava3Holes_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Balaclava3Holes_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Balaclava3Holes_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Balaclava3Holes_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BalaclavaMask_BDU">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Beige">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Black">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Blackskull">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Blue">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Chain">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Green">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Pig">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_Pink">
+    <category name="clothing" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BalaclavaMask_White">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DesignerGlasses">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HockeyMask">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MimeMask_Female">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MimeMask_Male">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="NioshFaceMask">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SkiGoggles_BlackYellow">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SkiGoggles_WhiteClear">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SkiGoggles_WhiteDark">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SportGlasses_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SportGlasses_Blue">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SportGlasses_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SportGlasses_Orange">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SurgicalMask">
+    <category name="clothing" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ThickFramesGlasses">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ThinFramesGlasses">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Mace">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Sword">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ChestHolster">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Flag_APA">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Altis">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_BabyDeer">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Bohemia">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_BrainZ">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_CDF">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_CHEL">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_CMC">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Cannibals">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Chedaki">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Chernarus">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Crook">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_DayZ">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_HunterZ">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Livonia">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_LivoniaPolice">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_NAPA">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_NSahrani">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Pirates">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_RSTA">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Refuge">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Rooster">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_SSahrani">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_TEC">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_UEC">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_White">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Wolf">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Zagorky">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flag_Zenit">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BakedBeansCan">
+    <category name="weapons" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BoxCerealCrunchin">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="BrisketSpread">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Candycane_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Candycane_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Candycane_RedGreen">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Candycane_Yellow">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Canteen">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Carp">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CarpFilletMeat">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="CatFoodCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Chips">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Crackers">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="DogFoodCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="GreenBellPepper">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Honey">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Lunchmeat">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Marmalade">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Pajka">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Pate">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PeachesCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PorkCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PotatoSeed">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PowderedMilk">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Rice">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SaltySticks">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SardinesCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SodaCan_Cola">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SodaCan_Fronta">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SodaCan_Kvass">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SodaCan_Pipsi">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SodaCan_Spite">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Tomato">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TunaCan">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Zagorky">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZagorkyChocolate">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="ZagorkyPeanuts">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Zucchini">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Chemlight_Blue">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Chemlight_Green">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Chemlight_Red">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Chemlight_White">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Chemlight_Yellow">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Flashlight">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Headtorch_Black">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Headtorch_Grey">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PortableGasLamp">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Roadflare">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="AntiChemInjector">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BandageDressing">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BloodTestKit">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CharcoalTablets">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DisinfectantAlcohol">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="DisinfectantSpray">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Epinephrine">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="IodineTincture">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Morphine">
+    <category name="medical" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PainkillerTablets">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PurificationTablets">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="StartKitIV">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TetracyclineAntibiotics">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Thermometer">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BaseballBat">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BrassKnuckles_Dull">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BrassKnuckles_Shiny">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Broom">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CanOpener">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Cleaver">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CrudeMachete">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FangeKnife">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HuntingKnife">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="KitchenKnife">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="KukriKnife">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Machete">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="OrientalMachete">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Sickle">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SteakKnife">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BaseRadio">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Cauldron">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="LargeGasCanister">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MediumGasCanister">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="OvenIndoor">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PersonalRadio">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PileOfWoodenPlanks">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PortableGasStove">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Pot">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SmallGasCanister">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PunchedCard">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="ClaymoreMine">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="EasterEgg">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Grenade_ChemGas">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="M18SmokeGrenade_Green">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="M18SmokeGrenade_Purple">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="M18SmokeGrenade_Red">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="M18SmokeGrenade_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="M18SmokeGrenade_Yellow">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="M67Grenade">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Plastic_Explosive">
+    <category name="misc" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="RDG2SmokeGrenade_Black">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RDG2SmokeGrenade_White">
+    <category name="misc" />
+    <value name="Tier1" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="RGD5Grenade">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="RemoteDetonator">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ChernarusMap">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Compass">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GPSReceiver">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="OrienteeringCompass">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Barrel_Blue">
+    <category name="storage" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Barrel_Green">
+    <category name="storage" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Barrel_Red">
+    <category name="storage" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Barrel_Yellow">
+    <category name="storage" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HeadlightH7_Box">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Matchbox">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NailBox">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SeaChest">
+    <category name="storage" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BarbedWire">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="BurlapSack">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CanisterGasoline">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CarRadiator">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="CombinationLock4">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ElectronicRepairKit">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Fabric">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FishingRod">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GardenLime">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="GlowPlug">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HandcuffKeys">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Handcuffs">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HeadlightH7">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Hook">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="LeatherSewingKit">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="MetalWire">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PetrolLighter">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Rope">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SewingKit">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SparkPlug">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="TireRepairKit">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WeaponCleaningKit">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ScientificBriefcaseKeys">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Binoculars">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Lockpick">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NVGHeadstrap">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Rangefinder">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Blowtorch">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Crowbar">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FarmingHoe">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FieldShovel">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FirefighterAxe">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FirefighterAxe_Black">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FirefighterAxe_Green">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FireplaceIndoor">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FireworksLauncher">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="FryingPan">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Hacksaw">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Hammer">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="HandSaw">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Hatchet">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Jig">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="LugWrench">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Megaphone">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="NylonKnifeSheath">
+    <category name="weapons" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Pickaxe">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Pliers">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Screwdriver">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Shovel">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="SledgeHammer">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Tripod">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Whetstone">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="WoodAxe">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="Wrench">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ShippingContainerKeys_Blue">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ShippingContainerKeys_Orange">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ShippingContainerKeys_Red">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="ShippingContainerKeys_Yellow">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>3500</buy>
+  </type>
+  <type name="PoliceBaton">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="FireExtinguisher">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="HockeyStick">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="Paddle">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+  <type name="HayHook">
+    <category name="misc" />
+    <value name="Tier3" />
+    <sell>400</sell>
+    <buy>5000</buy>
+  </type>
+</types>

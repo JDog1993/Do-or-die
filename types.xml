@@ -6529,5 +6529,35 @@
     <value name="Tier2" />
     <sell>200</sell>
     <buy>3500</buy>
+  </type>
+  <type name="Bear Pelt">
+    <category name="Pelt" />
+    <value name="Tier4" />
+    <sell>800</sell>
+    <buy>8000</buy>
+  </type>
+  <type name="Wolf Pelt">
+    <category name="Pelt" />
+    <value name="Tier3" />
+    <sell>150</sell>
+    <buy>3500</buy>
+     </type>
+  <type name="Wolf Headdress">
+  <category name="Pelt" />
+    <value name="Tier3" />
+    <sell>150</sell>
+    <buy>5000</buy>
+     </type>
+  <type name="Bear Headdress">
+  <category name="Pelt" />
+    <value name="Tier8" />
+    <sell>750</sell>
+    <buy>8000</buy>
+ </type>
+ <type name="Fox Headdress">
+  <category name="Pelt" />
+    <value name="Tier2" />
+    <sell>200</sell>
+    <buy>5500</buy>
      </type>
   </types>

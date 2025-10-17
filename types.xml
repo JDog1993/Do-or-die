@@ -5787,7 +5787,7 @@
      </type>
   <type name="Bear Headdress">
   <category name="Pelt" />
-    <value name="Tier8" />
+    <value name="Tier4" />
     <sell>750</sell>
     <buy>8000</buy>
  </type>

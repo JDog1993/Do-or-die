@@ -1121,7 +1121,7 @@
     <sell>100</sell>
     <buy>2500</buy>
   </type>
-  <type name="Mich2001Helmet">
+  <type name="Tactical Helmet">
     <category name="clothing" />
     <value name="Tier3" />
     <sell>400</sell>
@@ -5796,31 +5796,31 @@
   <type name="CarTent">
     <category name="storage" />
     <value name="Tier4" />
-    <sell>800</sell>
-    <buy>8000</buy>
+    <sell>6000</sell>
+    <buy>12000</buy>
   </type>
   <type name="LargeTent">
     <category name="storage" />
     <value name="Tier4" />
-    <sell>800</sell>
-    <buy>8000</buy>
+    <sell>5000</sell>
+    <buy>10000</buy>
   </type>
   <type name="MediumTent">
     <category name="storage" />
     <value name="Tier4" />
-    <sell>800</sell>
+    <sell>4000</sell>
     <buy>8000</buy>
   </type>
   <type name="MediumTent_Green">
     <category name="storage" />
     <value name="Tier4" />
-    <sell>800</sell>
+    <sell>4000</sell>
     <buy>8000</buy>
   </type>
   <type name="MediumTent_Orange">
     <category name="storage" />
     <value name="Tier4" />
-    <sell>800</sell>
+    <sell>4000</sell>
     <buy>8000</buy>
   </type>
   <type name="Chestplate">
@@ -5838,32 +5838,32 @@
   <type name="Barrel_Blue">
     <category name="storage" />
     <value name="Tier2" />
-    <sell>200</sell>
-    <buy>3500</buy>
+    <sell>2500</sell>
+    <buy>5000</buy>
   </type>
   <type name="Barrel_Green">
     <category name="storage" />
     <value name="Tier2" />
-    <sell>200</sell>
-    <buy>3500</buy>
+    <sell>2500</sell>
+    <buy>5000</buy>
   </type>
   <type name="Barrel_Red">
     <category name="storage" />
     <value name="Tier2" />
-    <sell>200</sell>
-    <buy>3500</buy>
+    <sell>2500</sell>
+    <buy>5000</buy>
   </type>
   <type name="Barrel_Yellow">
     <category name="storage" />
     <value name="Tier2" />
-    <sell>200</sell>
-    <buy>3500</buy>
+    <sell>2500</sell>
+    <buy>5000</buy>
   </type>
   <type name="SeaChest">
     <category name="storage" />
     <value name="Tier2" />
-    <sell>200</sell>
-    <buy>3500</buy>
+    <sell>2500</sell>
+    <buy>5000</buy>
   </type>
   <!--===== CATEGORY: WEAPON_ACCESSORIES =====--><type name="AK74_WoodBttstck">
     <category name="weapon_accessories" />

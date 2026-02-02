@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<types><!--===== CATEGORY: AMMO =====--><type name="AmmoBox_00buck_10rnd">
+<types><!--===== CATEGORY: AMMO =====-->
+<type name="AmmoBox_00buck_10rnd">
     <category name="ammo" />
     <value name="Tier1" />
     <sell>10</sell>
@@ -317,7 +318,8 @@
     <sell>150</sell>
     <buy>3500</buy>
   </type>
-  <!--===== CATEGORY: BAG =====--><type name="AssaultBag_Ttsko">
+  <!--===== CATEGORY: BAG =====-->
+  <type name="AssaultBag_Ttsko">
     <category name="bag" />
     <value name="Tier2" />
     <sell>50</sell>
@@ -599,7 +601,8 @@
     <sell>100</sell>
     <buy>5000</buy>
   </type>
-  <!--===== CATEGORY: CLOTHING =====--><type name="TTSKOPants">
+  <!--===== CATEGORY: CLOTHING =====-->
+  <type name="TTSKOPants">
     <category name="clothing" />
     <value name="Tier2" />
     <sell>50</sell>
@@ -2957,7 +2960,8 @@
     <sell>50</sell>
     <buy>3500</buy>
   </type>
-  <!--===== CATEGORY: FOOD =====--><type name="FilteringBottle">
+  <!--===== CATEGORY: FOOD =====-->
+  <type name="FilteringBottle">
     <category name="food" />
     <value name="Tier2" />
     <sell>50</sell>
@@ -2972,7 +2976,7 @@
   <type name="SpaghettiCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="WaterBottle">
@@ -3026,13 +3030,13 @@
   <type name="TacticalBaconCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="PumpkinHelmet">
     <category name="misc" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>50</sell>
     <buy>2500</buy>
   </type>
   <type name="CanvasPantsMidi_Beige">
@@ -3116,25 +3120,25 @@
   <type name="Candycane_Green">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Candycane_Red">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Candycane_RedGreen">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Candycane_Yellow">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Canteen">
@@ -3146,103 +3150,103 @@
   <type name="CarpFilletMeat">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="CatFoodCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Chips">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="DogFoodCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Lunchmeat">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="PeachesCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="PorkCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Rice">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="SardinesCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="SodaCan_Cola">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="SodaCan_Fronta">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="SodaCan_Kvass">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="SodaCan_Pipsi">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="SodaCan_Spite">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="TunaCan">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="ZagorkyChocolate">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Zucchini">
     <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="CanOpener">
@@ -3279,40 +3283,47 @@
  <type name="PepperSeedsPack">
     <category name="food_seeds" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="TomatoSeedsPack">
     <category name="food_seeds" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="PotatoSeed">
     <category name="food_seeds" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
    <type name="PumpkinSeedsPack">
     <category name="food_seeds" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="ZucchiniSeedsPack">
     <category name="food_seeds" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="CannabisSeedsPack">
     <category name="food_seeds" />
     <value name="Tier1" />
-    <sell>25</sell>
-    <buy>2500</buy>
+    <sell>N/A</sell>
+    <buy>N/A</buy>
   </type>
-  <!--===== CATEGORY: MAGAZINES =====--><type name="Shemag_Brown">
+  <type name="Cannabis 64 Slot Bag Full">
+    <category name="food" />
+    <value name="Tier1" />
+    <sell>N/A</sell>
+    <buy>2000</buy>
+  </type>
+  <!--===== CATEGORY: MAGAZINES =====-->
+  <type name="Shemag_Brown">
     <category name="magazines" />
     <value name="Tier1" />
     <sell>25</sell>
@@ -3474,13 +3485,13 @@
     <sell>50</sell>
     <buy>3500</buy>
   </type>
-  <type name="Mag_M14_10Rnd">
+  <type name="Mag DMR 10Rnd">
     <category name="magazines" />
     <value name="Tier2" />
     <sell>50</sell>
     <buy>3500</buy>
   </type>
-  <type name="Mag_M14_20Rnd">
+  <type name="Mag DMR 20Rnd">
     <category name="magazines" />
     <value name="Tier2" />
     <sell>50</sell>
@@ -3600,7 +3611,8 @@
     <sell>50</sell>
     <buy>3500</buy>
   </type>
-  <!--===== CATEGORY: MEDICAL =====--><type name="BloodBagEmpty">
+  <!--===== CATEGORY: MEDICAL =====-->
+  <type name="BloodBagEmpty">
     <category name="medical" />
     <value name="Tier2" />
     <sell>50</sell>
@@ -5000,81 +5012,81 @@
     <buy>3500</buy>
   </type>
   <type name="BrisketSpread">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Carp">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Crackers">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="GreenBellPepper">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Honey">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Marmalade">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Pajka">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Pate">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="PowderedMilk">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="SaltySticks">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Tomato">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N?A</sell>
     <buy>2500</buy>
   </type>
   <type name="Zagorky">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="ZagorkyPeanuts">
-    <category name="misc" />
+    <category name="food" />
     <value name="Tier1" />
-    <sell>25</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="Chemlight_Blue">
@@ -5242,7 +5254,7 @@
   <type name="Cauldron">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
+    <sell>N/A</sell>
     <buy>3500</buy>
   </type>
   <type name="OvenIndoor">
@@ -5272,14 +5284,14 @@
   <type name="Pot">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
+    <sell>N/A</sell>
     <buy>3500</buy>
   </type>
   <type name="PunchedCard">
     <category name="misc" />
     <value name="Tier4" />
-    <sell>800</sell>
-    <buy>8000</buy>
+    <sell>75</sell>
+    <buy>N/A</buy>
   </type>
   <type name="ClaymoreMine">
     <category name="exploseves" />
@@ -5374,20 +5386,20 @@
   <type name="Compass">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
-    <buy>3500</buy>
+    <sell>N/A</sell>
+    <buy>2500</buy>
   </type>
   <type name="GPSReceiver">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
-    <buy>3500</buy>
+    <sell>N/A</sell>
+    <buy>2500</buy>
   </type>
   <type name="OrienteeringCompass">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
-    <buy>3500</buy>
+    <sell>N/A</sell>
+    <buy>2500</buy>
   </type>
   <type name="HeadlightH7_Box">
     <category name="misc" />
@@ -5710,26 +5722,26 @@
   <type name="ShippingContainerKeys_Blue">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
-    <buy>3500</buy>
+    <sell>75</sell>
+    <buy>N/A</buy>
   </type>
   <type name="ShippingContainerKeys_Orange">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
-    <buy>3500</buy>
+    <sell>75</sell>
+    <buy>N/A</buy>
   </type>
   <type name="ShippingContainerKeys_Red">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
-    <buy>3500</buy>
+    <sell>75</sell>
+    <buy>N/A</buy>
   </type>
   <type name="ShippingContainerKeys_Yellow">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
-    <buy>3500</buy>
+    <sell>75</sell>
+    <buy>N/A</buy>
   </type>
   <type name="PoliceBaton">
     <category name="misc" />
@@ -5871,7 +5883,8 @@
     <sell>6000</sell>
     <buy>N/A</buy>
   </type>
-  <!--===== CATEGORY: WEAPON_ACCESSORIES =====--><type name="AK74_WoodBttstck">
+  <!--===== CATEGORY: WEAPON_ACCESSORIES =====-->
+  <type name="AK74_WoodBttstck">
     <category name="weapon_accessories" />
     <value name="Tier2" />
     <sell>50</sell>
@@ -6559,7 +6572,7 @@
    <type name="All PaydayMask Chains, Wolf, Dallas, Hoxton">
     <category name="misc" />
     <value name="Tier4" />
-    <sell>5000</sell>
+    <sell>200</sell>
     <buy>N/A</buy>
   <type name="4 Book Colection">
     <category name="misc" />

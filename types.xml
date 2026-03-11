@@ -5476,7 +5476,7 @@
   <type name="GlowPlug">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="HandcuffKeys">
@@ -5536,7 +5536,7 @@
   <type name="SparkPlug">
     <category name="misc" />
     <value name="Tier2" />
-    <sell>50</sell>
+    <sell>N/A</sell>
     <buy>2500</buy>
   </type>
   <type name="TireRepairKit">

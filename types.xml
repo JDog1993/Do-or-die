@@ -6587,6 +6587,144 @@
     <sell>50</sell>
     <buy>2500</buy>
   </type>
+    <type name="BrassKnuckles_MenAtArms">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HoloOptic">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>125</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="HoloOptic_Black">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>125</sell>
+    <buy>2500</buy>
+  </type>
+      <type name="Mag_SCARH_20Rnd">
+    <category name="magazines" />
+    <value name="Tier3" />
+    <sell>200</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="Mag_SCARH_20Rnd_Black">
+    <category name="magazines" />
+    <value name="Tier3" />
+    <sell>200</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MilitaryCap_BDU">
+    <category name="Clothing" />
+    <value name="Tier2" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+      <type name="MilitaryCap_Desert">
+    <category name="Clothing" />
+    <value name="Tier2" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MilitaryCap_Woodland">
+    <category name="Clothing" />
+    <value name="Tier2" />
+    <sell>100</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MorsecodeLeaflet_blood">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>50</sell>
+    <buy>2500</buy>
+  </type>
+      <type name="MorsecodeLeaflet_coffee">
+    <category name="misc" />
+    <value name="Tier2" />
+    <sell>50</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="MorsecodeLeaflet_fire">
+    <category name="Misc" />
+    <value name="Tier2" />
+    <sell>50</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="PlateCarrierHolster_Desert">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>150</sell>
+    <buy>2500</buy>
+  </type>
+    <type name="PlateCarrierPouches_Desert">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>150</sell>
+    <buy>2500</buy>
+  </type>
+      <type name="PlateCarrierVest_Desert">
+    <category name="bag" />
+    <value name="Tier3" />
+    <sell>150</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SCARH">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>1000</sell>
+    <buy>10000</buy>
+  </type>
+  <type name="SCARH_Black">
+    <category name="weapons" />
+    <value name="Tier4" />
+    <sell>1500</sell>
+    <buy>15000</buy>
+  </type>
+      <type name="SCAR_PrecisionBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>50</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SCAR_PrecisionBttstck_Black">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>50</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="SCAR_StockBttstck">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>50</sell>
+    <buy>2500</buy>
+  </type>
+      <type name="SCAR_StockBttstck_Black">
+    <category name="weapon_accessories" />
+    <value name="Tier2" />
+    <sell>50</sell>
+    <buy>2500</buy>
+  </type>
+      <type name="T56TankerHelmet_Olive">
+    <category name="Clothing" />
+    <value name="Tier2" />
+    <sell>150</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="T56TankerHelmet_Tan">
+    <category name="Clothing" />
+    <value name="Tier2" />
+    <sell>150</sell>
+    <buy>2500</buy>
+  </type>
+  <type name="TortillaBag_Desert">
+    <category name="Bag" />
+    <value name="Tier2" />
+    <sell>150</sell>
+    <buy>2500</buy>
+  </type>
    <type name="All PaydayMask Chains, Wolf, Dallas, Hoxton">
     <category name="misc" />
     <value name="Tier4" />

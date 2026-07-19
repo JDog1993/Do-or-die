@@ -5800,13 +5800,13 @@
      </type>
   <type name="Bear Headdress">
   <category name="Pelt" />
-    <value name="Tier2" />
+    <value name="Tier3" />
     <sell>100</sell>
     <buy>N/A</buy>
  </type>
  <type name="Fox Headdress">
   <category name="Pelt" />
-    <value name="Tier2" />
+    <value name="Tier1" />
     <sell>50</sell>
     <buy>N/A</buy>
   </type>

@@ -5794,20 +5794,20 @@
      </type>
   <type name="Wolf Headdress">
   <category name="Pelt" />
-    <value name="Tier3" />
-    <sell>150</sell>
+    <value name="Tier2" />
+    <sell>75</sell>
     <buy>N/A</buy>
      </type>
   <type name="Bear Headdress">
   <category name="Pelt" />
-    <value name="Tier4" />
-    <sell>400</sell>
+    <value name="Tier2" />
+    <sell>100</sell>
     <buy>N/A</buy>
  </type>
  <type name="Fox Headdress">
   <category name="Pelt" />
     <value name="Tier2" />
-    <sell>100</sell>
+    <sell>50</sell>
     <buy>N/A</buy>
   </type>
 <!--===== CATEGORY: STORAGE =====-->
